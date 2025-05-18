@@ -1,0 +1,1 @@
+def plan_vwap(total_qty, steps): return [total_qty/steps]*steps

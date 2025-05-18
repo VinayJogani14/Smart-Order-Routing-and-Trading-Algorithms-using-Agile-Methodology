@@ -1,0 +1,1 @@
+def plan_twap(total_qty, steps): return [total_qty/steps]*steps
