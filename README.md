@@ -34,7 +34,7 @@ AgileSmartSOR/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/AgileSmartSOR.git
+git clone https://github.com/VinayJogani14/AgileSmartSOR.git
 cd AgileSmartSOR
 pip install streamlit yfinance pandas
 ```
